@@ -49,7 +49,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "dunkmania101.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: "img/dunkie.png" # the favicon for your site
+favicon: "./img/dunkie.png" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -158,7 +158,7 @@ defaults:
   home:
     heading: "Welcome!"
     subheading: "You can do anything here! :)"
-    banner: "img/dunkie.png"
+    banner: "./img/dunkie.png"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
