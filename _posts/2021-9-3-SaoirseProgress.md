@@ -9,10 +9,10 @@ tags: [Saoirse]
 Hello again! This is post 2 on the development progress of my Saoirse (pronounced "Ser-Sha") game.
 
 Here's a quick summary of what I've done since the last post:
-    - I've changed how the registry stores objects. Previously, it would store a pair consisting of an identifier and the object itself. Now, the object part has been replaced with a function that returns that object.
-    - I've been debugging some "invalid value" checks in the BlankInvalidOrValue and Identifier classes.
-    - I've added some basic item registry objects to the main registry of the game.
-    - I've added classes for items, entities, and blocks.
+    1. I've changed how the registry stores objects. Previously, it would store a pair consisting of an identifier and the object itself. Now, the object part has been replaced with a function that returns that object.
+    2. I've been debugging some "invalid value" checks in the BlankInvalidOrValue and Identifier classes.
+    3. I've added some basic item registry objects to the main registry of the game.
+    4. I've added classes for items, entities, and blocks.
 
 I'm still trying to fix those checks for invalid values in the two classes mentioned above.
 
