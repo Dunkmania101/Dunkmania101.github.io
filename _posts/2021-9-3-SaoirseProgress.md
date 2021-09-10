@@ -6,7 +6,7 @@ categories: Saoirse
 tags: [Saoirse]
 ---
 
-Hello again! This is post 2 on the development progress of my Saoirse (pronounced "Ser-Sha") game.
+Hello again! This is post 2 on the development progress of my Saoirse (pronounced "Seer-Sha") game.
 
 Here's a quick summary of what I've done since the last post:
     1. I've changed how the registry stores objects. Previously, it would store a pair consisting of an identifier and the object itself. Now, the object part has been replaced with a function that returns that object.
