@@ -10,6 +10,7 @@ Hello again! This is post 3 on the development progress of my Saoirse (pronounce
 
 Here's a quick summary of what I've done since the last post:
     1. I fixed the issue with the invalid check and the infinite recusive function call.
+
     2. I removed the invalid and blank value system altogether, which is how I achieved the fix in change one.
 
 The removal of the invalid and blank value system should simplify a lot of code and shouldn't be much of a loss.
