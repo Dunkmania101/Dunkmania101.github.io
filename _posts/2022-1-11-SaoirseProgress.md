@@ -10,6 +10,7 @@ tags:
 Hello again! This is post 4 on the development progress of my Saoirse (pronounced "Seer-Sha") game.
 
 Here's a quick summary of what I've done since the last post:
+
     1. I added the basis for the client component. It uses the *[pyglet](http://pyglet.org/)* library.
 
     2. I added some sample entries and a few more categories to the base game's registry.
