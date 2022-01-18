@@ -3,8 +3,7 @@ layout: post
 title: Saoirse - My sandbox game project
 subtitle: The state of my Saoirse game's development.
 categories: Saoirse
-tags:
-    - Saoirse
+tags: Saoirse
 ---
 
 Hello again! This is post 4 on the development progress of my Saoirse (pronounced "Seer-Sha") game.
