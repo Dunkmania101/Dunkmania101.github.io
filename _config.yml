@@ -42,7 +42,7 @@ author: Dunkmania101
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Copyright (c) 2021 Duncan Brasher (Dunkmania101)"
+copyright: "Copyright (c) 2021-{currentYear} Duncan Brasher (Dunkmania101)"
 
 description: >- # this means to ignore newlines until "baseurl:"
   The site for Dunkmania101's blog, among other potential creations!
