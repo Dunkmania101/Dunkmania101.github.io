@@ -158,7 +158,7 @@ defaults:
   home:
     heading: "Welcome!"
     subheading: "You can do anything here! :)"
-    banner: "./assets/img/dunkie.png"
+    banner: "./assets/img/top-banner.png"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
